@@ -1,0 +1,18 @@
+body {
+  background: red; }
+
+h1 {
+  color: white; }
+
+h2 {
+  color: blue;
+  font-size: 100px; }
+
+.red h1 {
+  color: blue; }
+
+.red h2 {
+  color: white; }
+
+.red h3 {
+  color: yellow; }
